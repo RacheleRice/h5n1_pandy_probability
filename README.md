@@ -7,4 +7,8 @@ Bayesian reasoning: Probabilistic Machine Learning
 System Map: Broad 
 ![image](https://github.com/user-attachments/assets/3511a2fd-928f-424f-b10b-127d124e7a24)
 
+System Map: Core Drivers
+![image](https://github.com/user-attachments/assets/38d06cac-e495-47dd-a230-127ce01fc46c)
+
+
 
