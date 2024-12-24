@@ -8,12 +8,12 @@ Bayesian reasoning: Probabilistic Machine Learning
 
 
 System Map: Core Drivers (click image for enlarged view)
-![image](https://github.com/user-attachments/assets/b41066cd-fe4a-4d83-99c2-45810b5127aa)
+![image](https://github.com/user-attachments/assets/09b147f3-db91-4730-9c62-80f78f8ccb56)
 
 System Map: Broad Factors
 ![image](https://github.com/user-attachments/assets/a377ce6c-2e93-45be-9b0f-6107cd8cc15e)
 
-![image](https://github.com/user-attachments/assets/09b147f3-db91-4730-9c62-80f78f8ccb56)
+
 
 
 
